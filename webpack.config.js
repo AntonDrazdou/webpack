@@ -57,7 +57,7 @@ function setDMode() {
 
 const config = {
   target: "web", //"node" or "web"
-  entry: './src/palette/js/main.js',
+  entry: './src/main.js',
   output: {
     path: path.resolve(__dirname, 'dist'),
     filename: 'bundle.js'
