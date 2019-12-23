@@ -5,4 +5,4 @@ it("проверяем размер массива для начальной к�
     if (arrays4x4.length !== 4) {
         throw new Error(`Expected ${expectedResult}, but got ${result}`);
     }
-});
+}); 

@@ -11,7 +11,7 @@
     "lint": "eslint ./src",
     "test": "mocha"
   },
-  "author": "Alexander Panov",
+  "author": "Kirill Moskalevich",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.26.3",
